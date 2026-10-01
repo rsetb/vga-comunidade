@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "1790875203-e250099b",
+  "tipo": "Esquema",
+  "titulo": "TESTE usuario (apagar)",
+  "fabricante": "X",
+  "modelo": "Y",
+  "arquivo": "teste.pdf",
+  "tamanho": 3009,
+  "sha256": "e250099b9ef339dfc21c1bcecc158cf17678f7e598d10cdc4da63bc9fbdf8b71",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790875203-e250099b/teste.pdf",
+  "release_id": 401189442,
+  "data": "2026-10-01",
+  "notas": "desc",
+  "fotos": [],
+  "enviado_por": "Fulano"
+ }
+]
