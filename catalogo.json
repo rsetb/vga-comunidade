@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "id": "1790872616-f3569ae0",
+  "tipo": "Esquema",
+  "titulo": "TESTE (apagar)",
+  "fabricante": "Teste",
+  "modelo": "Teste 1",
+  "arquivo": "teste vga.pdf",
+  "tamanho": 5009,
+  "sha256": "f3569ae0efc8a0f9a24eacaff1d857503f8f7b9d415a56325605a6b395377eb6",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790872616-f3569ae0/teste_vga.pdf",
+  "release_id": 401158007,
+  "data": "2026-10-01",
+  "notas": ""
+ }
+]
