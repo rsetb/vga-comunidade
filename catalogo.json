@@ -25,5 +25,21 @@
    "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto9_front.jpg"
   ],
   "enviado_por": "Rset Brasil"
+ },
+ {
+  "id": "1790892328-df39fa47",
+  "tipo": "Boardview",
+  "titulo": "SOYO_rx_580_8gb_2048sp",
+  "fabricante": "",
+  "modelo": "",
+  "arquivo": "SOYO_rx_580_8gb_2048sp (2).rar",
+  "tamanho": 360745,
+  "sha256": "df39fa47fa4d78972a65a737dd18fda976fff28fbae62753c256491be9e63d31",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790892328-df39fa47/SOYO_rx_580_8gb_2048sp_2_.rar",
+  "release_id": 401391547,
+  "data": "2026-10-01",
+  "notas": "TESTED OK 100%",
+  "fotos": [],
+  "enviado_por": "Rset Brasil"
  }
 ]
