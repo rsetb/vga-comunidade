@@ -1,1 +1,29 @@
-[]
+[
+ {
+  "id": "1790878330-cac5f1be",
+  "tipo": "Fotos",
+  "titulo": "TESTE 10 fotos (apagar)",
+  "fabricante": "Teste",
+  "modelo": "Teste",
+  "arquivo": "foto00.jpg",
+  "tamanho": 5644,
+  "sha256": "cac5f1beda54ffd86c3133adc2063817382023020cdb96ae9c51b544959b41ab",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto00.jpg",
+  "release_id": 401228204,
+  "data": "2026-10-01",
+  "notas": "desc",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto00.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto1_foto01.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto2_foto02.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto3_foto03.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto4_foto04.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto5_foto05.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto6_foto06.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto7_foto07.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto8_foto08.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878330-cac5f1be/foto9_foto09.jpg"
+  ],
+  "enviado_por": ""
+ }
+]
