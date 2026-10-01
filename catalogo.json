@@ -1,16 +1,1 @@
-[
- {
-  "id": "1790872943-b4d70dcd",
-  "tipo": "Boardview",
-  "titulo": "TESTE MS-V340 (apagar)",
-  "fabricante": "MSI",
-  "modelo": "MS-V340",
-  "arquivo": "MS-V340 REV 1.0.cad",
-  "tamanho": 797412,
-  "sha256": "b4d70dcd3b610ad2b2f76853ee1efdc94f2e9a3a5aa0c5a645d5acbbe09eb8c1",
-  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790872943-b4d70dcd/MS-V340_REV_1.0.cad",
-  "release_id": 401162010,
-  "data": "2026-10-01",
-  "notas": "teste"
- }
-]
+[]
