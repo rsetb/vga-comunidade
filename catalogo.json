@@ -25,5 +25,28 @@
    "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto9_front.jpg"
   ],
   "enviado_por": "Rset Brasil"
+ },
+ {
+  "id": "1790878939-b757b1af",
+  "tipo": "Fotos",
+  "titulo": "TESTE galeria (apagar)",
+  "fabricante": "X",
+  "modelo": "Y",
+  "arquivo": "foto0.jpg",
+  "tamanho": 15878,
+  "sha256": "b757b1af6d9866d338780b2061f0f129c9d1c55bbc5d876cc6866bb176681e87",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto0.jpg",
+  "release_id": 401235681,
+  "data": "2026-10-01",
+  "notas": "desc",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto0.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto1_foto1.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto2_foto2.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto3_foto3.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto4_foto4.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878939-b757b1af/foto5_foto5.jpg"
+  ],
+  "enviado_por": ""
  }
 ]
