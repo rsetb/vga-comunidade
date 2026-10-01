@@ -14,5 +14,21 @@
   "notas": "",
   "fotos": [],
   "enviado_por": ""
+ },
+ {
+  "id": "1790877004-93a1bd94",
+  "tipo": "Esquema",
+  "titulo": "TESTE remover (apagar)",
+  "fabricante": "",
+  "modelo": "",
+  "arquivo": "t.pdf",
+  "tamanho": 2009,
+  "sha256": "93a1bd94fc7e133bc8cf5077fe392d159e5325f984724a7732f27e76c8a85ce7",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790877004-93a1bd94/t.pdf",
+  "release_id": 401211669,
+  "data": "2026-10-01",
+  "notas": "",
+  "fotos": [],
+  "enviado_por": ""
  }
 ]
