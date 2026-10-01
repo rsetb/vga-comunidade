@@ -1,1 +1,29 @@
-[]
+[
+ {
+  "id": "1790878756-a2ec361b",
+  "tipo": "Fotos",
+  "titulo": "Sapphire Radeon RX 6600 XT Pulse OC Review",
+  "fabricante": "",
+  "modelo": "",
+  "arquivo": "gpu.jpg",
+  "tamanho": 173304,
+  "sha256": "a2ec361bb45d113ac8aff2cc0518efac5b731bc07a8786327f93d98ef2cf72ab",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/gpu.jpg",
+  "release_id": 401233558,
+  "data": "2026-10-01",
+  "notas": "",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/gpu.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto1_memory.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto2_drmos-memory.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto3_voltage-controller-memory.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto4_voltage-area-memory.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto5_drmos-gpu.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto6_voltage-controller-gpu.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto7_voltage-area-gpu.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto8_back.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1790878756-a2ec361b/foto9_front.jpg"
+  ],
+  "enviado_por": "Rset Brasil"
+ }
+]
