@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "id": "1790875313-93d98782",
+  "tipo": "Boardview",
+  "titulo": "MS-V397 REV 10 BOARDVIEW (BDV)(.CAD)",
+  "fabricante": "",
+  "modelo": "",
+  "arquivo": "MS-V397 REV 10 BOARDVIEW (BDV)(.CAD) .cad",
+  "tamanho": 5868394,
+  "sha256": "93d98782a5e9e35556eb6251899c3e36236771d8dab2f0bd64d478bfb560346c",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1790875313-93d98782/MS-V397_REV_10_BOARDVIEW_BDV_.CAD_.cad",
+  "release_id": 401190785,
+  "data": "2026-10-01",
+  "notas": "",
+  "fotos": []
+ }
+]
