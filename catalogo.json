@@ -41,5 +41,23 @@
   "notas": "TESTED OK 100%",
   "fotos": [],
   "enviado_por": "Rset Brasil"
+ },
+ {
+  "id": "1791395779-21652145",
+  "tipo": "Componente",
+  "titulo": "ZZ1 = TESTE9",
+  "referencia": "ZZ1",
+  "equivalente": "TESTE9",
+  "link": "https://x.com/a",
+  "fabricante": "",
+  "modelo": "",
+  "tamanho": 0,
+  "data": "2026-10-07",
+  "notas": "t",
+  "enviado_por": "Rset",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1791395779-21652145/img1_c.jpg"
+  ],
+  "release_id": 406020432
  }
 ]
