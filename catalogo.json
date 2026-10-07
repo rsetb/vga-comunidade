@@ -41,5 +41,23 @@
   "notas": "TESTED OK 100%",
   "fotos": [],
   "enviado_por": "Rset Brasil"
+ },
+ {
+  "id": "1791396318-98092806",
+  "tipo": "Componente",
+  "titulo": "BLN3 = AOZ5311NQI",
+  "referencia": "BLN3",
+  "equivalente": "AOZ5311NQI",
+  "link": "https://www.mercadolivre.com.br/aoz5311nqi-blno-bln0-blnd-15-qfn--bln0-blno-blnd-bln3-qfn/up/MLBU1981964259",
+  "fabricante": "",
+  "modelo": "",
+  "tamanho": 0,
+  "data": "2026-10-07",
+  "notas": "",
+  "enviado_por": "Rset Brasil",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1791396318-98092806/img1_D_NQ_NP_2X_915691-MLB71566011110_092023-F-aoz5311nqi-blno-bln0-blnd-15-qfn--bln0-blno-blnd-bln3-qfn.webp"
+  ],
+  "release_id": 406027521
  }
 ]
