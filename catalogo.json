@@ -41,5 +41,24 @@
   "notas": "TESTED OK 100%",
   "fotos": [],
   "enviado_por": "Rset Brasil"
+ },
+ {
+  "id": "1791395989-24963681",
+  "tipo": "Componente",
+  "titulo": "BLN3 = AOZ5311NQI",
+  "referencia": "BLN3",
+  "equivalente": "AOZ5311NQI",
+  "link": "https://www.aosmd.com/res/data_sheets/AOZ5311NQI.pdf",
+  "fabricante": "",
+  "modelo": "",
+  "tamanho": 0,
+  "data": "2026-10-07",
+  "notas": "Driver (teste)",
+  "enviado_por": "Rset",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1791395989-24963681/img1_chip0.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1791395989-24963681/img2_chip1.jpg"
+  ],
+  "release_id": 406023264
  }
 ]
