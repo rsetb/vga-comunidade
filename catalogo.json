@@ -41,5 +41,19 @@
   "notas": "TESTED OK 100%",
   "fotos": [],
   "enviado_por": "Rset Brasil"
+ },
+ {
+  "id": "1791394849-34908118",
+  "tipo": "Componente",
+  "titulo": "BLN3 = AOZ5311NQI",
+  "referencia": "BLN3",
+  "equivalente": "AOZ5311NQI",
+  "link": "https://www.aosmd.com/x.pdf",
+  "fabricante": "",
+  "modelo": "",
+  "tamanho": 0,
+  "data": "2026-10-07",
+  "notas": "Driver (teste)",
+  "enviado_por": "Rset"
  }
 ]
