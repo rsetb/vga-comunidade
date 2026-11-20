@@ -95,5 +95,24 @@
    "https://github.com/rsetb/vga-comunidade/releases/download/c-1795207794-48658413/img1_image_6563b84d.jpg"
   ],
   "release_id": 453165518
+ },
+ {
+  "id": "1795207838-9967baaa",
+  "tipo": "Fotos",
+  "titulo": "RTX 2060",
+  "fabricante": "",
+  "modelo": "",
+  "arquivo": "image_6563b84d.jpg",
+  "tamanho": 892263,
+  "sha256": "9967baaab69dab78c60c8937cf6fbb655c0f0ce85a4160886be905d3046733ec",
+  "url": "https://github.com/rsetb/vga-comunidade/releases/download/c-1795207838-9967baaa/image_6563b84d.jpg",
+  "release_id": 453166118,
+  "data": "2026-11-20",
+  "notas": "",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1795207838-9967baaa/image_6563b84d.jpg",
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1795207838-9967baaa/foto1_image_6563b84d.jpg"
+  ],
+  "enviado_por": "Rafael Rset"
  }
 ]
