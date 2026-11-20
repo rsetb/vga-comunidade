@@ -77,5 +77,23 @@
    "https://github.com/rsetb/vga-comunidade/releases/download/c-1792541005-69004226/img1_49bfhjpzen0e1.jpeg"
   ],
   "release_id": 418999054
+ },
+ {
+  "id": "1795207794-48658413",
+  "tipo": "Componente",
+  "titulo": "RTX 2060 = RTX 2060",
+  "referencia": "RTX 2060",
+  "equivalente": "RTX 2060",
+  "link": "",
+  "fabricante": "",
+  "modelo": "",
+  "tamanho": 0,
+  "data": "2026-11-20",
+  "notas": "Tensões para estudo.",
+  "enviado_por": "Rafael Rset",
+  "fotos": [
+   "https://github.com/rsetb/vga-comunidade/releases/download/c-1795207794-48658413/img1_image_6563b84d.jpg"
+  ],
+  "release_id": 453165518
  }
 ]
